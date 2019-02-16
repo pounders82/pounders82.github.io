@@ -152,7 +152,7 @@
 							
 							<div class='section-header' >
 								<h2>
-									I'm a <strong class='color' >Programmer</strong>
+									I'm a <strong class='color' >Software Engineer</strong>
 								</h2>
 							</div>
 							
@@ -164,28 +164,22 @@
 										
 										<li>
 											<strong>Name:</strong>
-											<span>John Doe</span>
+											<span>Nick Pounders</span>
 										</li>
 										
 										<li>
 											<strong>Job:</strong>
-											<span>Freelancer</span>
+											<span>R&D Specialist</span>
 										</li>
 										
-										<li>
-											<strong>Age:</strong>
-											<span>26 Years</span>
-										</li>
+								
 										
 										<li>
 											<strong>Residence:</strong>
-											<span>United States</span>
+											<span>Woodstock Georgia</span>
 										</li>
 										
-										<li>
-											<strong>Hometown:</strong>
-											<span>Dokri</span>
-										</li>
+										
 										
 										
 										
@@ -212,9 +206,6 @@
 											Download Resume
 										</a>
 										
-										<a href='#' class='btn-custom btn-color' >
-											Hire Me
-										</a>
 										
 									</div>
 									
