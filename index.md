@@ -167,6 +167,12 @@
 											<span>Nick Pounders</span>
 										</li>
 										
+										<li>
+											<strong>Job:</strong>
+											<span>R&D Specialist</span>
+										</li>
+										
+								
 										
 										<li>
 											<strong>Residence:</strong>
@@ -240,10 +246,10 @@
 									
 									<div class='skill' >
 										
-										<h4>Python</h4>
+										<h4>SQL</h4>
 										
 										<div class='bar' >
-											<div class='percent' style='width:60%;' ></div>
+											<div class='percent' style='width:75%;' ></div>
 										</div>
 										
 									</div>
@@ -265,10 +271,10 @@
 									
 									<div class='skill' >
 										
-										<h4>SQL</h4>
+										<h4>Python</h4>
 										
 										<div class='bar' >
-											<div class='percent' style='width:75%;' ></div>
+											<div class='percent' style='width:60%;' ></div>
 										</div>
 										
 									</div>
@@ -287,10 +293,10 @@
 									
 									<div class='skill' >
 										
-										<h4>Ruby</h4>
+										<h4>SEO</h4>
 										
 										<div class='bar' >
-											<div class='percent' style='width:65%;' ></div>
+											<div class='percent' style='width:75%;' ></div>
 										</div>
 										
 									</div>
@@ -329,16 +335,15 @@
 									
 									<div class='timeline-content' >
 										
-										<h4>Kennesaw State University/h4>
+										<h4>CSS College Larkana</h4>
 										
 										<em>
-											<span>Bachelors of Science, Computer Science</span>
-											<span>2015-2018</span>
+											<span>Masters Degree</span>
+											<span>2013-2016</span>
 										</em>
 										
 										<p>
-											Honors: magna cum laude GPA 3.76/4.00 – December 2018<br>
-											Upsilon Pi Epsilon Honor Society Member
+											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
 										</p>
 										
 									</div>
@@ -349,15 +354,34 @@
 									
 									<div class='timeline-content' >
 										
-										<h4>Chattahooche Technical College</h4>
+										<h4>CSS College Larkana</h4>
 										
 										<em>
-											<span>Associate of Applied Science, Electronic and Computer Engineering Technology</span>
-											<span>2009-2011</span>
+											<span>Masters Degree</span>
+											<span>2013-2016</span>
 										</em>
 										
 										<p>
-											GPA 3.97/4.00 – 2011
+											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
+										</p>
+										
+									</div>
+									
+								</li>
+								
+								<li>
+									
+									<div class='timeline-content' >
+										
+										<h4>CSS College Larkana</h4>
+										
+										<em>
+											<span>Masters Degree</span>
+											<span>2013-2016</span>
+										</em>
+										
+										<p>
+											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
 										</p>
 										
 									</div>
