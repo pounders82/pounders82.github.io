@@ -167,12 +167,6 @@
 											<span>Nick Pounders</span>
 										</li>
 										
-										<li>
-											<strong>Job:</strong>
-											<span>R&D Specialist</span>
-										</li>
-										
-								
 										
 										<li>
 											<strong>Residence:</strong>
@@ -246,10 +240,10 @@
 									
 									<div class='skill' >
 										
-										<h4>SQL</h4>
+										<h4>Python</h4>
 										
 										<div class='bar' >
-											<div class='percent' style='width:75%;' ></div>
+											<div class='percent' style='width:60%;' ></div>
 										</div>
 										
 									</div>
@@ -271,10 +265,10 @@
 									
 									<div class='skill' >
 										
-										<h4>Python</h4>
+										<h4>SQL</h4>
 										
 										<div class='bar' >
-											<div class='percent' style='width:60%;' ></div>
+											<div class='percent' style='width:75%;' ></div>
 										</div>
 										
 									</div>
@@ -293,10 +287,10 @@
 									
 									<div class='skill' >
 										
-										<h4>SEO</h4>
+										<h4>Ruby</h4>
 										
 										<div class='bar' >
-											<div class='percent' style='width:75%;' ></div>
+											<div class='percent' style='width:65%;' ></div>
 										</div>
 										
 									</div>
