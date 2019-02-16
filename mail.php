@@ -26,17 +26,13 @@
 		
 		
 		//Place your Email Here
-		$recipient = "nickpounders@gmail.com";
+		$to = "nickpounders@gmail.com";
 		
 		$mailheader = "From: $email \r\n";
 
-		mail($recipient, $name, $formcontent, $mailheader);
+		mail($to, $name, $formcontent, $mailheader);
 		
-		if( mail($recipient, $name, $formcontent, $mailheader) == false ){
-			$data['error'] = 'Sorry, an error occured!';
-		}else{
-			$data['error'] = false;
-		}
+		
 	
 	}
 	
