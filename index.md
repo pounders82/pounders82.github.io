@@ -167,10 +167,7 @@
 											<span>Nick Pounders</span>
 										</li>
 										
-										<li>
-											<strong>Job:</strong>
-											<span>R&D Specialist</span>
-										</li>
+										
 										
 								
 										
@@ -335,15 +332,17 @@
 									
 									<div class='timeline-content' >
 										
-										<h4>CSS College Larkana</h4>
+										<h4>Kennesaw State University</h4>
 										
 										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
+											<span>Bachelors Degree</span>
+											<span>Computer Science</span>
+											<span>2015-2018</span>
 										</em>
 										
 										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
+											Honors: magna cum laude GPA 3.76/4.00<br>
+											Upsilon Pi Epsilon Honor Society Member 
 										</p>
 										
 									</div>
