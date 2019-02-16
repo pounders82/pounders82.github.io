@@ -7,12 +7,10 @@
 		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 		
 		
-		<title>Modern & Minimal Resume / CV & vCard Template</title>
+		<title>Nick Pounders Portfolio Website</title>
 		
 		
-		<!--=====================================================
-			CSS Stylesheets
-		=====================================================-->
+		<!--CSS Stylesheets-->
 		<link rel='stylesheet' type='text/css' href='bootstrap/css/bootstrap.min.css' >
 		<link rel='stylesheet' type='text/css' href='css/linea.css' >
 		<link rel='stylesheet' type='text/css' href='css/ionicons.min.css' >
@@ -24,9 +22,7 @@
 	<body>
 		
 		
-		<!--=====================================================
-			Preloader
-		=====================================================-->
+		<!--Preloader-->
 		<div id='preloader' >
 			<div class='loader' ></div>
 			<div class='left' ></div>
@@ -120,10 +116,10 @@
 							<div class='inner' >
 								<div class='intro-text' >
 									
-									<h1>I'm John Doe</h1>
+									<h1>I'm Nick Pounders</h1>
 									
 									<p>
-										A Friend, Dude and Buddy From Earth
+										Welcome to my portfolio website
 									</p>
 									
 									<div class='intro-btns' >
@@ -132,9 +128,7 @@
 											Discover More
 										</a>
 										
-										<a href='#contact' class='btn-custom section-toggle' data-section='contact' >
-											Hire Me
-										</a>
+										
 										
 									</div>
 									
