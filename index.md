@@ -335,15 +335,16 @@
 									
 									<div class='timeline-content' >
 										
-										<h4>CSS College Larkana</h4>
+										<h4>Kennesaw State University/h4>
 										
 										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
+											<span>Bachelors of Science, Computer Science</span>
+											<span>2015-2018</span>
 										</em>
 										
 										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
+											Honors: magna cum laude GPA 3.76/4.00 – December 2018<br>
+											Upsilon Pi Epsilon Honor Society Member
 										</p>
 										
 									</div>
@@ -354,34 +355,15 @@
 									
 									<div class='timeline-content' >
 										
-										<h4>CSS College Larkana</h4>
+										<h4>Chattahooche Technical College</h4>
 										
 										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
+											<span>Associate of Applied Science, Electronic and Computer Engineering Technology</span>
+											<span>2009-2011</span>
 										</em>
 										
 										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
-										</p>
-										
-									</div>
-									
-								</li>
-								
-								<li>
-									
-									<div class='timeline-content' >
-										
-										<h4>CSS College Larkana</h4>
-										
-										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
-										</em>
-										
-										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
+											GPA 3.97/4.00 – 2011
 										</p>
 										
 									</div>
