@@ -176,7 +176,7 @@
 										
 										<li>
 											<strong>Residence:</strong>
-											<span>Woodstock, Georgia</span>
+											<span>Woodstock, GA</span>
 										</li>
 										
 										
@@ -898,8 +898,8 @@
 											<i class='ion-ios-location-outline' ></i>
 											
 											<p>
-												1254 Patterson Street<br>
-												Houston, TX 77025
+												226 Hiawassee Drive<br>
+												Woodstock, GA 30188
 											</p>
 											
 										</div>
@@ -910,8 +910,8 @@
 											<i class='ion-ios-telephone-outline' ></i>
 											
 											<p>
-												(+123) 713-295-4383<br>
-												(+123) 913-295-2583
+												404-520-0033
+												
 											</p>
 											
 										</div>
