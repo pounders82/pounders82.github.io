@@ -152,7 +152,7 @@
 							
 							<div class='section-header' >
 								<h2>
-									I'm a <strong class='color' >Software Engineer</strong>
+									I'm an aspiring <strong class='color' >Software Engineer</strong>
 								</h2>
 							</div>
 							
@@ -176,7 +176,7 @@
 										
 										<li>
 											<strong>Residence:</strong>
-											<span>Woodstock Georgia</span>
+											<span>Woodstock, Georgia</span>
 										</li>
 										
 										

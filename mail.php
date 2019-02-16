@@ -30,7 +30,7 @@
 		
 		$mailheader = "From: $email \r\n";
 		
-		if( mail($recipient, $name, $formcontent, $mailheader) == false ){
+		if( mail($recipient, $name, $formcontent, $mailheader)){
 			$data['error'] = 'Sorry, an error occured!';
 		}else{
 			$data['error'] = false;
