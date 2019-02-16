@@ -235,32 +235,32 @@
 									
 									<div class='skill' >
 										
-										<h4>HTML/CSS</h4>
-										
-										<div class='bar' >
-											<div class='percent' style='width:85%;' ></div>
-										</div>
-										
-									</div>
-									
-									
-									<div class='skill' >
-										
-										<h4>php</h4>
-										
-										<div class='bar' >
-											<div class='percent' style='width:90%;' ></div>
-										</div>
-										
-									</div>
-									
-									
-									<div class='skill' >
-										
-										<h4>jQuery</h4>
+										<h4>Java</h4>
 										
 										<div class='bar' >
 											<div class='percent' style='width:75%;' ></div>
+										</div>
+										
+									</div>
+									
+									
+									<div class='skill' >
+										
+										<h4>SQL</h4>
+										
+										<div class='bar' >
+											<div class='percent' style='width:75%;' ></div>
+										</div>
+										
+									</div>
+									
+									
+									<div class='skill' >
+										
+										<h4>Javascript</h4>
+										
+										<div class='bar' >
+											<div class='percent' style='width:60%;' ></div>
 										</div>
 										
 									</div>
@@ -271,10 +271,10 @@
 									
 									<div class='skill' >
 										
-										<h4>JavaScript</h4>
+										<h4>Python</h4>
 										
 										<div class='bar' >
-											<div class='percent' style='width:85%;' ></div>
+											<div class='percent' style='width:60%;' ></div>
 										</div>
 										
 									</div>
@@ -282,10 +282,10 @@
 									
 									<div class='skill' >
 										
-										<h4>WordPress</h4>
+										<h4>Bash/Perl Scripting</h4>
 										
 										<div class='bar' >
-											<div class='percent' style='width:90%;' ></div>
+											<div class='percent' style='width:75%;' ></div>
 										</div>
 										
 									</div>
