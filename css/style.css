@@ -552,9 +552,9 @@ body.section-switching.up .animation-block{
 	border:none;
 }
 .info-list > li > strong{
-	letter-spacing:4px;
+	letter-spacing:2px;
 	color:#202020;
-	text-transform:uppercase;
+	
 }
 .info-list > li > span{
 	color:rgba(0,0,0,.4);
