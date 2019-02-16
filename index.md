@@ -1091,15 +1091,9 @@
 							</div>
 							
 							
-							<div class='row' >
+							<div>
 							
-								<div class='col-md-8' >
-									
-									
-									
-									
-								</div>
-								
+			
 								<div class='col-md-4' >
 									
 									<div class='contact-info-icons' >
