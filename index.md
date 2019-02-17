@@ -912,8 +912,8 @@
 											<i class='ion-ios-telephone-outline' ></i>
 											
 											<p>
+											<br>
 												404-520-0033
-												
 											</p>
 											
 										</div>
@@ -924,6 +924,7 @@
 											<i class='ion-android-globe' ></i>
 											
 											<p>
+											<br>
 												nickpounders@gmail.com
 											</p>
 											
