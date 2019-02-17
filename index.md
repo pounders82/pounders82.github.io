@@ -338,7 +338,7 @@
 										<h4>Kennesaw State University</h4>
 										
 										<em>
-											<span>Bachelors Degree</span>
+											<span>Bachelors of Science</span>
 											<span>Computer Science</span>
 											<span>2015-2018</span>
 										</em>
@@ -347,6 +347,17 @@
 											Honors: magna cum laude GPA 3.76/4.00<br>
 											Upsilon Pi Epsilon Honor Society Member 
 										</p>
+										<h4>Relevant Coursework:</h4>
+										<ul style="list-style-type:circle;">
+											<li>Programing Principals I&II</li>
+											<li>Intro to Database Systems</li>
+											<li>Advanced Database</li>
+											<li>Data Structures</li>
+											<li>Linux/Unix Administration</li>
+											<li>Internet Programming</li>
+											<li>Intro to Software Engineering</li>
+											<li>Intro to Software Engineering</li>
+										</ul>
 										
 									</div>
 									
@@ -356,15 +367,16 @@
 									
 									<div class='timeline-content' >
 										
-										<h4>CSS College Larkana</h4>
+										<h4>Chattahoochee Technical College</h4>
 										
 										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
+											<span>Associates of Science</span>
+											<span>Electronic/Computer Engineering Technology</span>
+											<span>2009-2011</span>
 										</em>
 										
 										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
+											GPA 3.97/4.0
 										</p>
 										
 									</div>
