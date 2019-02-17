@@ -883,6 +883,7 @@
 							
 							<div class='section-header' >
 								<h2>Contact <strong class='color' >Me</strong></h2>
+								<h2>Nick Pounders</h2>
 							</div>
 							
 							
@@ -897,6 +898,7 @@
 											
 											<i class='ion-ios-location-outline' ></i>
 											
+										
 											<p>
 												226 Hiawassee Drive<br>
 												Woodstock, GA 30188
@@ -922,8 +924,7 @@
 											<i class='ion-android-globe' ></i>
 											
 											<p>
-												www.google.com<br>
-												www.example.com
+												nickpounders@gmail.com
 											</p>
 											
 										</div>
