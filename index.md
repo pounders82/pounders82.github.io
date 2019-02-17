@@ -350,13 +350,17 @@
 										<h4>Relevant Coursework:</h4>
 										<ul style="list-style-type:circle;">
 											<li>Programing Principals I&II</li>
-											<li>Intro to Database Systems</li>
+											<li>Intro to Database Systems && Advanced Database</li>
 											<li>Advanced Database</li>
-											<li>Data Structures</li>
+											<li>Operating Systems</li>
 											<li>Linux/Unix Administration</li>
 											<li>Internet Programming</li>
 											<li>Intro to Software Engineering</li>
-											<li>Intro to Software Engineering</li>
+											<li>Software Architecture and Design</li>
+											<li>Software System Requirements</li>
+											<li>Concepts of Programming Languages</li>
+											<li>Algorithm Analysis</li>
+											
 										</ul>
 										
 									</div>
