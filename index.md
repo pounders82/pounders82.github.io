@@ -116,7 +116,7 @@
 							<div class='inner' >
 								<div class='intro-text' >
 									
-									<h1>I'm Nick Pounders</h1>
+									<h2>I'm Nick Pounders</h2>
 									<img src="/img/IMG_2071.jpeg" alt="Profile Pic">
 									<p>
 										Welcome to my portfolio website
