@@ -664,7 +664,7 @@
 													
 													<!--project popup description-->
 													<p>
-														This project was created using Ruby on Rails.  I created this project because my wife used to have a blog website but she no longer is able to keep the site due to time constraints and financial obligations.This is where I thought this would be the perfect opportunity for me to create a free blog website where if my wife does not use it for a couple months she does not feel like she is spending money on something she is not using.  Additionally, I found this to be a great opportunity for me to gain the experience of working with a customer, in this instance it would be my wife, with specific requests and/or needs by allowing her to help dictate the design and requirements of the website.  This is still a work in progress but visit the site at
+														This project was created using Ruby on Rails.  I created this project because my wife used to have a blog website but she no longer is able to keep the site due to time constraints and financial obligations.This is where I thought this would be the perfect opportunity for me to explore the Ruby on Rails framework and create a free blog website where if my wife does not use it for a couple months she does not feel like she is wasting money.  Additionally, I found this to be a great opportunity for me to gain the experience of working with a customer with specific requests and/or needs by allowing her to help dictate the design and requirements of the website.  This is still a work in progress but visit the site at
 														<a href="https://makingmyownsunshine.herokuapp.com"> Making My Own Sunshine</a>
 													</p>
 													
