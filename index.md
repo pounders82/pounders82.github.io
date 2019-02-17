@@ -176,7 +176,10 @@
 											<span>Woodstock, GA</span>
 										</li>
 										
-										
+										<li>
+											<a href="https://www.linkedin.com/in/nick-pounders-27989683/"> <img src="/img/LinkedIn_logo_initials.png"></a>
+											
+										</li>
 										
 										
 										
@@ -268,10 +271,10 @@
 									
 									<div class='skill' >
 										
-										<h4>Python</h4>
+										<h4>SWL</h4>
 										
 										<div class='bar' >
-											<div class='percent' style='width:60%;' ></div>
+											<div class='percent' style='width:75%;' ></div>
 										</div>
 										
 									</div>
