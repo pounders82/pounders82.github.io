@@ -346,7 +346,7 @@
 										<p>
 											Honors: magna cum laude GPA 3.76/4.00<br>
 											Upsilon Pi Epsilon Honor Society Member 
-										</p>
+										</p><br>
 										<h4>Relevant Coursework:</h4>
 										<ul style="list-style-type:circle;">
 											<li>Programing Principals I&II</li>
