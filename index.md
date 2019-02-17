@@ -654,7 +654,7 @@
 												<figure>
 													
 													<!--project popup image-->
-													<img src='img/portfolio/MakingMyOwnSunshine.jpeg' alt>
+													<img src='img/portfolio/MakingMyOwnSunshine.jpg' alt>
 												
 												</figure>
 												<div class='content' >
