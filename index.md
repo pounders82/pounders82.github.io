@@ -641,7 +641,7 @@
 								
 								<li data-groups='["web","tech"]' >
 									<div class='inner' >
-										<img src='img/portfolio/MakingMyOwnSunshine.jpeg' alt>
+										<img src='img/portfolio/MakingMyOwnSunshine.jpg' alt>
 										
 										<div class='overlay' >
 											
