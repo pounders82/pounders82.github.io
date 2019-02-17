@@ -388,23 +388,6 @@
 								</li>
 								
 								<li>
-									
-									<div class='timeline-content' >
-										
-										<h4>CSS College Larkana</h4>
-										
-										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
-										</em>
-										
-										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
-										</p>
-										
-									</div>
-									
-								</li>
 								
 								
 								
