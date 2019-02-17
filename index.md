@@ -246,10 +246,10 @@
 									
 									<div class='skill' >
 										
-										<h4>SQL</h4>
+										<h4>Python</h4>
 										
 										<div class='bar' >
-											<div class='percent' style='width:75%;' ></div>
+											<div class='percent' style='width:65%;' ></div>
 										</div>
 										
 									</div>
@@ -260,7 +260,7 @@
 										<h4>Javascript</h4>
 										
 										<div class='bar' >
-											<div class='percent' style='width:60%;' ></div>
+											<div class='percent' style='width:65%;' ></div>
 										</div>
 										
 									</div>
@@ -271,7 +271,7 @@
 									
 									<div class='skill' >
 										
-										<h4>SWL</h4>
+										<h4>SQL</h4>
 										
 										<div class='bar' >
 											<div class='percent' style='width:75%;' ></div>
@@ -293,7 +293,7 @@
 									
 									<div class='skill' >
 										
-										<h4>SEO</h4>
+										<h4>Ruby / Ruby on Rails</h4>
 										
 										<div class='bar' >
 											<div class='percent' style='width:75%;' ></div>
