@@ -641,7 +641,7 @@
 								
 								<li data-groups='["web","tech"]' >
 									<div class='inner' >
-										<img src='img/portfolio/1.jpg' alt>
+										<img src='img/portfolio/MakingMyOwnSunshine.jpeg' alt>
 										
 										<div class='overlay' >
 											
@@ -654,17 +654,18 @@
 												<figure>
 													
 													<!--project popup image-->
-													<img src='img/portfolio/1.jpg' alt>
+													<img src='img/portfolio/MakingMyOwnSunshine.jpeg' alt>
 												
 												</figure>
 												<div class='content' >
 													
 													<!--project popup title-->
-													<h4>My Project Title</h4>
+													<h4>Making My Own Sunshine Blog</h4>
 													
 													<!--project popup description-->
 													<p>
-														Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
+														This project was created using Ruby on Rails.  I created this project because my wife used to have a blog website but she no longer is able to keep the site due to time constraints and financial obligations.This is where I thought this would be the perfect opportunity for me to create a free blog website where if my wife does not use it for a couple months she does not feel like she is spending money on something she is not using.  Additionally, I found this to be a great opportunity for me to gain the experience of working with a customer, in this instance it would be my wife, with specific requests and/or needs by allowing her to help dictate the design and requirements of the website.  This is still a work in progress but visit the site at
+														<a href="https://makingmyownsunshine.herokuapp.com"> Making My Own Sunshine</a>
 													</p>
 													
 												</div>
