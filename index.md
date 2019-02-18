@@ -721,7 +721,7 @@
 								</li>
 								
 								
-								<li data-groups='["web"]' >
+								<li data-groups='["tech"]' >
 									<div class='inner' >
 										<img src='img/portfolio/pandas.png' alt>
 										
