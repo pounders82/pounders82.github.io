@@ -713,9 +713,9 @@
 									</div>
 								</li>
 								
-								<li data-groups='["web","photography"]' >
+								<li data-groups='["web"]' >
 									<div class='inner' >
-										<img src='img/portfolio/3.jpg' alt>
+										<img src='img/portfolio/Bookstore.png' alt>
 										
 										<div class='overlay' >
 											
@@ -728,17 +728,17 @@
 												<figure>
 													
 													<!--project popup image-->
-													<img src='img/portfolio/3.jpg' alt>
+													<img src='img/portfolio/Bookstore.png' alt>
 												
 												</figure>
 												<div class='content' >
 													
 													<!--project popup title-->
-													<h4>My Project Title</h4>
+													<h4>KSU Bookstore</h4>
 													
 													<!--project popup description-->
 													<p>
-														Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
+														This project was created using Microsoft ASP.NET framework.   Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
 													</p>
 													
 												</div>
