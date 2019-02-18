@@ -376,15 +376,18 @@
 									
 									<div class='timeline-content' >
 										
-										<h4>CSS College Larkana</h4>
+										<h4>Boston Scientific</h4>
 										
 										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
+											<span>R&D Specialist</span>
+											<span>2013-Present</span>
 										</em>
 										
 										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
+											Development of verification and validation test methods, protocols, and reports in an FDA regulated industry. 
+											Project support by performing various tasks in relation to product design, fixture design, materials testing, proto-type building, FMEA analysis, design reviews, etc.
+											Calibration Management System Administrator: coordinate all activities for location to ensure all equipment stays in a qualified calibrated state.
+
 										</p>
 										
 									</div>
@@ -395,15 +398,17 @@
 									
 									<div class='timeline-content' >
 										
-										<h4>CSS College Larkana</h4>
+										<h4>FLIR Integrated System</h4>
 										
 										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
+											<span>Electrical/Mechanical Technician</span>
+											<span>2012-2013</span>
 										</em>
 										
 										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
+											Installed electrical and electronic parts and hardware in housings or assemblies, using hand tools and soldering equipment.
+											Read blueprints, schematics, diagrams, and technical orders to determine methods and sequences of assembly.
+											Troubleshot electrical and mechanical problems to determine route cause of issue and recommended a corrective action.
 										</p>
 										
 									</div>
@@ -414,15 +419,18 @@
 									
 									<div class='timeline-content' >
 										
-										<h4>CSS College Larkana</h4>
+										<h4>RE/MAX Regional Services</h4>
 										
 										<em>
-											<span>Masters Degree</span>
-											<span>2013-2016</span>
+											<span>Technical Services Coordinator</span>
+											<span>2011-2012</span>
 										</em>
 										
 										<p>
-											Lorem ipsum dolor sit amet, id electram reprimique his, dicta saepe oporteat eos an, esse erat doming at lam. Nec quodsi suscipiantur an, ad graece nemore ocurreret lam, agam ipsum meliore quo ut.
+											Provided day-to-day contact for users, actively sought out resolution to user problems with designated product/ service lines and trained numerous remote offices on company provided software platforms.
+											Provided office network support for servers, computers/laptop, printer/copier, backup routines, virus protection etc.
+											Salesforce.com Administrator.
+
 										</p>
 										
 									</div>
@@ -715,7 +723,7 @@
 								
 								<li data-groups='["web"]' >
 									<div class='inner' >
-										<img src='img/portfolio/4.jpg' alt>
+										<img src='img/portfolio/pandas.png' alt>
 										
 										<div class='overlay' >
 											
@@ -728,13 +736,13 @@
 												<figure>
 													
 													<!--project popup image-->
-													<img src='img/portfolio/4.jpg' alt>
+													<img src='img/portfolio/pandas.png' alt>
 												
 												</figure>
 												<div class='content' >
 													
 													<!--project popup title-->
-													<h4>My Project Title</h4>
+													<h4>Data Analysis with Pandas</h4>
 													
 													<!--project popup description-->
 													<p>
