@@ -240,9 +240,7 @@
 										
 										<h4>Java</h4>
 										
-										<div class='bar' >
-											<div class='percent' style='width:75%;' ></div>
-										</div>
+										
 										
 									</div>
 									
