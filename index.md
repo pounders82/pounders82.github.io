@@ -239,7 +239,7 @@
 									<div class='skill' >
 										
 										<h4>Java</h4>
-										
+										<h4>Python</h4>
 										
 										
 									</div>
