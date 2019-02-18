@@ -179,11 +179,9 @@
 										<li>
 											<a href="https://www.linkedin.com/in/nick-pounders-27989683/" target="_blank"> <img src="/img/LinkedIn_logo_initials.png"></a>
 											
-										</li>
-										<li>
 											<a href="https://github.com/pounders82" target="_blank"> <img src="/img/GitHub-Mark.png"></a>
-											
 										</li>
+										
 										
 										
 									</ul>
