@@ -205,10 +205,10 @@
 										<a href='/img/Nick_Pounders_resume.docx' download class='btn-custom btn-color' >
 											Download Resume
 										</a>
-										<a href='#portfolio' class='btn-custom btn-color' >
+										
+										<a href='#portfolio' class='btn-custom section-toggle' data-section='portfolio' >
 											Portfolio
 										</a>
-										
 										
 									</div>
 									
