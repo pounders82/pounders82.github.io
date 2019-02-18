@@ -699,11 +699,11 @@
 												<div class='content' >
 													
 													<!--project popup title-->
-													<h4>My Project Title</h4>
+													<h4>My Project Muzer</h4>
 													
 													<!--project popup description-->
 													<p>
-														Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
+														A group project for our senior software design capstone class inspired by our collective frustration with current social media’s focus on making our backlogs public
 													</p>
 													
 												</div>
