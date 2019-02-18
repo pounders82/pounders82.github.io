@@ -250,60 +250,7 @@
 									</div>
 									
 									
-									<div class='skill' >
-										
-										<h4>Python</h4>
-										
-										<div class='bar' >
-											<div class='percent' style='width:65%;' ></div>
-										</div>
-										
-									</div>
 									
-									
-									<div class='skill' >
-										
-										<h4>Javascript</h4>
-										
-										<div class='bar' >
-											<div class='percent' style='width:65%;' ></div>
-										</div>
-										
-									</div>
-									
-								</div>
-								
-								<div class='col-md-6' >
-									
-									<div class='skill' >
-										
-										<h4>SQL</h4>
-										
-										<div class='bar' >
-											<div class='percent' style='width:75%;' ></div>
-										</div>
-										
-									</div>
-									
-									
-									<div class='skill' >
-										
-										<h4>Bash/Perl Scripting</h4>
-										
-										<div class='bar' >
-											<div class='percent' style='width:75%;' ></div>
-										</div>
-										
-									</div>
-									
-									
-									<div class='skill' >
-										
-										<h4>Ruby / Ruby on Rails</h4>
-										
-										<div class='bar' >
-											<div class='percent' style='width:75%;' ></div>
-										</div>
 										
 									</div>
 									
