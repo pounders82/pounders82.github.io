@@ -206,7 +206,7 @@
 											Download Resume
 										</a>
 										
-										<a href='#portfolio' class='btn-custom btn-color' data-section='portfolio' >
+										<a href='#portfolio' class='btn-custom btn-color' >
 											Portfolio
 										</a>
 										
