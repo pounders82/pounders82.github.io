@@ -635,16 +635,12 @@
 										Tech
 									</a>
 								</li>
-								<li>
-									<a href='#' data-group='photography' >
-										Photography
-									</a>
-								</li>
+								
 							</ul>
 							
 							<ul class='portfolio-items' >
 								
-								<li data-groups='["web","tech"]' >
+								<li data-groups='["web"]' >
 									<div class='inner' >
 										<img src='img/portfolio/MakingMyOwnSunshine.png'>
 										
@@ -682,9 +678,9 @@
 									</div>
 								</li>
 								
-								<li data-groups='["tech","photography"]' >
+								<li data-groups='["tech","web"]' >
 									<div class='inner' >
-										<img src='img/portfolio/2.jpg' alt>
+										<img src='img/portfolio/Muzer1.png' alt>
 										
 										<div class='overlay' >
 											
@@ -697,7 +693,7 @@
 												<figure>
 													
 													<!--project popup image-->
-													<img src='img/portfolio/2.jpg' alt>
+													<img src='img/portfolio/Muzer.png' alt>
 												
 												</figure>
 												<div class='content' >
