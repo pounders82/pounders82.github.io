@@ -239,8 +239,13 @@
 									<div class='skill' >
 										
 										<h4>Java</h4>
+										<h4>SQL</h4>
+										<h4>HTML</h4>
+										<h4>CSS</h4>
+										<h4>Javascript</h4>
 										<h4>Python</h4>
-										
+										<h4>Ruby/Rails</h4>
+										<h4>Bash/Perl Scripting</h4>
 										
 									</div>
 									
