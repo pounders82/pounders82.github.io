@@ -177,7 +177,7 @@
 										</li>
 										
 										<li>
-											<a href="https://www.linkedin.com/in/nick-pounders-27989683/"> <img src="/img/LinkedIn_logo_initials.png"></a>
+											<a href="https://www.linkedin.com/in/nick-pounders-27989683/" target="_blank"> <img src="/img/LinkedIn_logo_initials.png"></a>
 											
 										</li>
 										
