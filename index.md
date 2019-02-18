@@ -242,6 +242,20 @@
 										<h4>SQL</h4>
 										<h4>HTML</h4>
 										<h4>CSS</h4>
+										
+										
+									</div>
+									
+									
+									
+									
+								</div>
+								
+								<div class='col-md-6' >
+									
+									<div class='skill' >
+										
+										
 										<h4>Javascript</h4>
 										<h4>Python</h4>
 										<h4>Ruby/Rails</h4>
@@ -251,8 +265,11 @@
 									
 									
 									
+									
+									
+									
 										
-									</div>
+									
 									
 								</div>
 								
