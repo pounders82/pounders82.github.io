@@ -690,7 +690,7 @@
 													
 													<!--project popup description-->
 													<p>
-														I get very excited about a nice map. Folium is a powerful Python library that helps you create several types of Leaflet maps. 
+														I get very excited about a nice map. Folium is a powerful Python library that helps you create several types of Leaflet maps. In this project I created a webmap with 2 layers that can be turn on or off.  The first layer shows the population of the area based on color and the other layer show locations of volcanos with pop-up dots that can be clicked to show elevation. 
 													</p>
 													
 												</div>
