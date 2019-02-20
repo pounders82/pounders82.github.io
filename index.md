@@ -578,7 +578,7 @@
 													
 													<!--project popup description-->
 													<p>
-														A group project for our senior software design capstone class inspired by our collective frustration with current social media’s focus on making our backlogs public
+														A group project for our senior software design capstone class inspired by our collective frustration with having to paid to stream our own music or having to paid for expensive portable devices.  We designed an application that turns your home computer into a server.  Then connecting to the internet anywhere, users can access and stream their own music.  This project was created using the MERN stack. MongoDB, Express.js, React, and Node.js. Google OAuth was used for user authentication.  
 													</p>
 													
 												</div>
@@ -615,7 +615,7 @@
 													
 													<!--project popup description-->
 													<p>
-														This project was created using Microsoft ASP.NET framework.   Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
+														This project was created using Microsoft ASP.NET framework.   This was a group project for an intro to software engineering class.  We were to have something similar to the real life KSU Bookstore. The teacher acted as the customer and we went through the waterfall development method.  We performed requirements analysis, design, implementation and testing of a site where users could search and purhcase books for KSU classes.    
 													</p>
 													
 												</div>
@@ -653,7 +653,7 @@
 													
 													<!--project popup description-->
 													<p>
-														Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
+														In my personal pursuit of learning Python programming language, I studied the open source library Pandas.  This library is for data manipulation and analysis and offeres data structures and operation for manipulating numerical tables and time series.
 													</p>
 													
 												</div>
