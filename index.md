@@ -665,7 +665,7 @@
 									</div>
 								</li>
 								
-								<li data-groups='["tech"]' >
+								<li data-groups='["tech", "web]' >
 									<div class='inner' >
 										<img src='img/portfolio/5.jpg' alt>
 										
@@ -686,11 +686,11 @@
 												<div class='content' >
 													
 													<!--project popup title-->
-													<h4>My Project Title</h4>
+													<h4>Create Webmaps with Python and Folium</h4>
 													
 													<!--project popup description-->
 													<p>
-														Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
+														I get very excited about a nice map. Folium is a powerful Python library that helps you create several types of Leaflet maps. 
 													</p>
 													
 												</div>
