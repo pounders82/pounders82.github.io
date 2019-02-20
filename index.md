@@ -667,7 +667,7 @@
 								
 								<li data-groups='["tech", "web]' >
 									<div class='inner' >
-										<img src='img/portfolio/5.jpg' alt>
+										<img src='img/portfolio/folium.pg' alt>
 										
 										<div class='overlay' >
 											
@@ -680,7 +680,7 @@
 												<figure>
 													
 													<!--project popup image-->
-													<img src='img/portfolio/5.jpg' alt>
+													<img src='img/portfolio/folium.png' alt>
 												
 												</figure>
 												<div class='content' >
