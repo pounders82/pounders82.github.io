@@ -216,7 +216,7 @@
 									
 									<div class='about-btns' >
 										
-										<a href='/img/Nick_Pounders_resume.docx' download class='btn-custom btn-color' >
+										<a href='/img/Nick_Pounders_Resume.docx' download class='btn-custom btn-color' >
 											Download Resume
 										</a>
 										
