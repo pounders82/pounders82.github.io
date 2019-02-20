@@ -179,7 +179,7 @@
 										<li>
 											<strong>Education:</strong>
 											<span>Kennesaw State University</span><br>
-											<span>Computer Science</span>
+											<span>Degree: Computer Science</span>
 										</li>
 										
 										
@@ -202,7 +202,7 @@
 											Welcome to my portfolio website! I’m a recent Computer Science graduate from Kennesaw State University. Go Owls! 
 											From a young age I have always been interested in technology.  I remember sitting around the home computer and connecting to the internet for the time.  The excitement of technology progressing and funny sounds from dial-up internet.  Since then I have been on a journey to understand and learn technology.
 
-											I am what you call a returning learner.  I recieved my associates degree in Electronic/Computer Engineering Technology in 2011 and decided to hit the job market.  
+											<br>I am what you call a returning learner.  I recieved my associates degree in Electronic/Computer Engineering Technology in 2011 and decided to hit the job market.  
 										</p>
 										
 										
