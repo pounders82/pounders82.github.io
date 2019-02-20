@@ -391,12 +391,14 @@
 											<span>2013-Present</span>
 										</em>
 										
-										<p>
-											Development of verification and validation test methods, protocols, and reports in an FDA regulated industry. 
-											Project support by performing various tasks in relation to product design, fixture design, materials testing, proto-type building, FMEA analysis, design reviews, etc.
-											Calibration Management System Administrator: coordinate all activities for location to ensure all equipment stays in a qualified calibrated state.
-
-										</p>
+										<ul style="list-style-type:circle;">
+											<li>Development of verification and validation test methods, protocols, and reports in an FDA regulated industry. </li>
+											<li>Project support by performing various tasks in relation to product design, fixture design, materials testing, proto-type building, FMEA analysis, design reviews, etc.</li>
+											<li>Calibration Management System Administrator: coordinate all activities for location to ensure all equipment stays in a qualified calibrated state.</li>
+										
+											
+										</ul>
+									
 										
 									</div>
 									
