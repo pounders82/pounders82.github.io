@@ -179,7 +179,7 @@
 										<li>
 											<strong>Education:</strong>
 											<span>Kennesaw State University</span><br>
-											<span>Degree: Computer Science</span>
+											<span>Degree: Computer Science December 2018</span>
 										</li>
 										
 										
@@ -393,7 +393,8 @@
 										
 										<em>
 											<span>R&D Specialist</span>
-											<span>2013-Present</span>
+											<span>2013-Present</span><br>
+											<span>Boston Scientific 2016 Engineering Excellence Award</span>
 										</em>
 										
 										<ul style="list-style-type:circle;">
