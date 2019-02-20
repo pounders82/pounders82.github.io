@@ -176,6 +176,18 @@
 											<span>Woodstock, GA</span>
 										</li>
 										
+
+										<li>
+											<strong>Residence:</strong>
+											<span>Woodstock, GA</span>
+										</li>
+										<li>
+											<strong>Education:</strong>
+											<span>Kennesaw State University</span>
+											<span>Computer Science</span>
+										</li>
+										
+										
 										<li>
 											<a href="https://www.linkedin.com/in/nick-pounders-27989683/" target="_blank"> <img src="/img/LinkedIn_logo_initials.png"></a>
 											
@@ -192,7 +204,8 @@
 								
 									<div class='about-text' >
 										<p>
-											Qui ne indoctum electram vituperatoribus. Eirmod tamquam efficiendi mei cu, eum idque voluptatum ad, quo id tollit regione prompta. Cu probo iusto assentior eos, usu summo perpetua ne. Te suas phaedrum ullamcorper has. Ea mei ponderum rationibus dissentias. Inani phaedrum suavitate eu qui, vide aperiri facilis est eu. Te appetere cotidieque pro, duo eu assum facete instructior, no autem aeterno reprimique nec. Pri cu delectus adolescens, eruditi placerat cu sed, zril nonumes forensibus in eam. Eam ne dolore diceret pericula, in vis numquam pertinax. Vel ne dolorum eloquentiam, et vel senserit incorrupte neglegentur, pro cu audiam ocurreret reprimique.
+											Welcome to my portfolio website! I’m a recent Computer Science graduate from Kennesaw State University. Go Owls! 
+											From a young age I have always been interested in technology.  I remember sitting around the home computer and connecting to the internet for the time.  The excitement of technology progressing and funny sounds from dial-up internet.  Since then I have been on a journey to understand and learn technology.
 										</p>
 										
 										
