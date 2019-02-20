@@ -702,9 +702,9 @@
 									</div>
 								</li>
 								
-								<li data-groups='["photography"]' >
+								<li data-groups='["tech"]' >
 									<div class='inner' >
-										<img src='img/portfolio/6.jpg' alt>
+										<img src='img/portfolio/EyeHand.png' alt>
 										
 										<div class='overlay' >
 											
@@ -717,17 +717,17 @@
 												<figure>
 													
 													<!--project popup image-->
-													<img src='img/portfolio/6.jpg' alt>
+													<img src='img/portfolio/EyeHand.png' alt>
 												
 												</figure>
 												<div class='content' >
 													
 													<!--project popup title-->
-													<h4>My Project Title</h4>
+													<h4>Eye-Hand Coordination with Java FX</h4>
 													
 													<!--project popup description-->
 													<p>
-														Consul latine iudicabit eu vel. Cu has animal eruditi voluptatibus. Eu volumus explicari sed. Mel mutat vituperata suscipiantur et, et fabellas explicari adipiscing quo, no mucius euismod vis. Cu vim quem quod cibo.
+														This project is simple game that I have created to practice the concepts of JavaFx. This program displays a circle of radius 10 pixels filled with a random color at a random location on a pane. When you click the circle, it disappears and a new random- color circle is displayed at another random location. After 5 circles are clicked, the time spent is displayed in the pane.
 													</p>
 													
 												</div>
