@@ -200,9 +200,13 @@
 									<div class='about-text' >
 										<p>
 											Welcome to my portfolio website! I’m a recent Computer Science graduate from Kennesaw State University. Go Owls! 
-											From a young age I have always been interested in technology.  I remember sitting around the home computer and connecting to the internet for the time.  The excitement of technology progressing and funny sounds from dial-up internet.  Since then I have been on a journey to understand and learn technology.
+											From a young age I have always been interested in technology.  I remember sitting around the home computer and connecting to the internet for the first time.  The excitement of technology progressing and funny sounds from dial-up internet.  Since then I have been on a journey to understand and learn technology.
+											<br><br>
 
-											<br>I am what you call a returning learner.  I recieved my associates degree in Electronic/Computer Engineering Technology in 2011 and decided to hit the job market.  
+											I am what you call a returning learner.  I recieved my associates degree in Electronic/Computer Engineering Technology in 2011 and decided to hit the job market. The last 5 years I have been developing single-use and infection prevention medical devices for the gastro intestinal physician. When I decided to go back to school I had a difficult time choosing what to study.  I could either stick with an area that I am currently in or something that I am really interested in learning.  Ultimately my love for technology and my interest in programming won and so I choose Computer Science.
+
+											<br><br>
+											      
 										</p>
 										
 										
