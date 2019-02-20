@@ -203,10 +203,11 @@
 											From a young age I have always been interested in technology.  I remember sitting around the home computer and connecting to the internet for the first time.  The excitement of technology progressing and funny sounds from dial-up internet.  Since then I have been on a journey to understand and learn technology.
 											<br><br>
 
-											I am what you call a returning learner.  I recieved my associates degree in Electronic/Computer Engineering Technology in 2011 and decided to hit the job market. The last 5 years I have been developing single-use and infection prevention medical devices for the gastro intestinal physician. When I decided to go back to school I had a difficult time choosing what to study.  I could either stick with an area that I am currently in or something that I am really interested in learning.  Ultimately my love for technology and my interest in programming won and so I choose Computer Science.
+											I am what you call a returning learner.  I recieved my associates degree in Electronic/Computer Engineering Technology in 2011 and decided to hit the job market. The last 5 years I have been developing single-use and infection prevention medical devices for the gastro intestinal physician. When I decided to go back to school I had a difficult time choosing what to study.  I could either stick with an area that I am currently in or something that I am really interested in learning.  Ultimately my love for technology and my interest in programming won so I choose Computer Science.
 
 											<br><br>
-											      
+											In my free time I like to learn, spend time with my family, and watch movies and play video games if time permits. I have spent most of my time in college understanding web develpoment technologies.  My favorite project has been the Making My Own Sunshine Blog which I created with Ruby on Rails.  I definitly see why it became so popular. Now that I have graduated, I hope to do some research on mobile develpoment, artifical intellegance, and machine learning and I look forward to my next journey in my career.  
+
 										</p>
 										
 										
