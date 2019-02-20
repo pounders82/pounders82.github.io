@@ -392,9 +392,12 @@
 										</em>
 										
 										<ul style="list-style-type:circle;">
-											<li>Development of verification and validation test methods, protocols, and reports in an FDA regulated industry. </li>
-											<li>Project support by performing various tasks in relation to product design, fixture design, materials testing, proto-type building, FMEA analysis, design reviews, etc.</li>
-											<li>Calibration Management System Administrator: coordinate all activities for location to ensure all equipment stays in a qualified calibrated state.</li>
+											<li>Development of verification and validation test methods, protocols, and reports in an FDA regulated industry. 
+											</li>
+											<li>Project support by performing various tasks in relation to product design, fixture design, materials testing, proto-type building, FMEA analysis, design reviews, etc.
+											</li>
+											<li>Calibration Management System Administrator: coordinate all activities for location to ensure all equipment stays in a qualified calibrated state.
+											</li>
 										
 											
 										</ul>
@@ -415,11 +418,17 @@
 											<span>2012-2013</span>
 										</em>
 										
-										<p>
-											Installed electrical and electronic parts and hardware in housings or assemblies, using hand tools and soldering equipment.
-											Read blueprints, schematics, diagrams, and technical orders to determine methods and sequences of assembly.
-											Troubleshot electrical and mechanical problems to determine route cause of issue and recommended a corrective action.
-										</p>
+										<ul style="list-style-type:circle;">
+											<li>Installed electrical and electronic parts and hardware in housings or assemblies, using hand tools and soldering equipment. 
+											</li>
+											<li>Read blueprints, schematics, diagrams, and technical orders to determine methods and sequences of assembly.
+											</li>
+											<li>Troubleshot electrical and mechanical problems to determine route cause of issue and recommended a corrective action.
+											</li>
+										
+											
+										</ul>
+										
 										
 									</div>
 									
@@ -436,12 +445,17 @@
 											<span>2011-2012</span>
 										</em>
 										
-										<p>
-											Provided day-to-day contact for users, actively sought out resolution to user problems with designated product/ service lines and trained numerous remote offices on company provided software platforms.
-											Provided office network support for servers, computers/laptop, printer/copier, backup routines, virus protection etc.
-											Salesforce.com Administrator.
-
-										</p>
+										<ul style="list-style-type:circle;">
+											<li>Provided day-to-day contact for users, actively sought out resolution to user problems with designated product/ service lines and trained numerous remote offices on company provided software platforms. 
+											</li>
+											<li>Provided office network support for servers, computers/laptop, printer/copier, backup routines, virus protection etc.
+											</li>
+											<li>Salesforce.com Administrator.
+											</li>
+										
+											
+										</ul>
+										
 										
 									</div>
 									
