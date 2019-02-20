@@ -219,6 +219,7 @@ body.border-dark .main-content > .page-border{
 }
 .section-block{
 	padding:110px;
+	padding-bottom: 55px;
 	padding-top:0;
 }
 body.section-switching .main-content:before,
