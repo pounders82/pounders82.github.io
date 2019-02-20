@@ -667,7 +667,7 @@
 								
 								<li data-groups='["tech", "web]' >
 									<div class='inner' >
-										<img src='img/portfolio/folium.pg' alt>
+										<img src='img/portfolio/folium.png' alt>
 										
 										<div class='overlay' >
 											
