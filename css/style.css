@@ -527,7 +527,7 @@ body.section-switching.up .animation-block{
 	background:#F0F0F0;
 }
 .about-block .section-header{
-	margin-bottom:25px;
+	margin-bottom:40px;
 }
 .about-text > p{
 	font-size:14px;
@@ -561,7 +561,7 @@ body.section-switching.up .animation-block{
 	color:rgba(0,0,0,.4);
 }
 .services-block .section-header{
-	margin-bottom:80px;
+	margin-bottom:40px;
 }
 .service{
 	padding:35px;
@@ -628,7 +628,7 @@ body.section-switching.up .animation-block{
 	margin:0;
 }
 .skills-block .section-header{
-	margin-bottom:80px;
+	margin-bottom:40px;
 }
 .skill{
 	position:relative;
