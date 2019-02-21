@@ -203,10 +203,10 @@
 											From a young age I have always been interested in technology.  I remember sitting around the home computer and connecting to the internet for the first time.  The excitement of technology progressing and funny sounds from dial-up internet.  Since then I have been on a journey to understand and learn technology.
 											<br><br>
 
-											I am what you call a returning learner.  I recieved my associates degree in Electronic/Computer Engineering Technology in 2011 and decided to hit the job market. The last 5 years I have been developing single-use and infection prevention medical devices for the gastro intestinal physician. When I decided to go back to school I had a difficult time choosing what to study.  I could either stick with an area that I am currently in or something that I am really interested in learning.  Ultimately my love for technology and my interest in programming won so I choose Computer Science.
+											I am what you call a returning learner.  I received my associates degree in Electronic/Computer Engineering Technology in 2011 and decided to hit the job market. The last 5 years I have been developing single-use and infection prevention medical devices for the gastro-intestinal physician. When I decided to go back to school I had a difficult time choosing what to study.  I could either stick with an area that I am currently in or something that I am really interested in learning.  Ultimately my love for technology and my interest in programming won so I choose Computer Science.
 
 											<br><br>
-											In my free time I like to learn, spend time with my family, and watch movies and play video games if time permits. I have spent most of my time in college understanding web develpoment technologies.  My favorite project has been the Making My Own Sunshine Blog which I created with Ruby on Rails.  I definitly see why it became so popular. Now that I have graduated, I hope to do some research on mobile develpoment, artifical intellegance, machine learning, and open source. Also I look forward to my next journey in my career.  
+											In my free time I like to learn, spend time with my family, and watch movies and play video games if time permits. I have spent most of my time in college understanding web development technologies.  My favorite project has been the Making My Own Sunshine Blog which I created with Ruby on Rails.  I definitely see why it became so popular. Now that I have graduated, I hope to do some research on mobile development, artificial intelligence, machine learning, and open source. Also I look forward to my next journey in my career.  
 
 										</p>
 										
@@ -615,7 +615,7 @@
 													
 													<!--project popup description-->
 													<p>
-														This project was created using Microsoft ASP.NET framework.   This was a group project for an intro to software engineering class.  We were to have something similar to the real life KSU Bookstore. The teacher acted as the customer and we went through the waterfall development method.  We performed requirements analysis, design, implementation and testing of a site where users could search and purhcase books for KSU classes.    
+														This project was created using Microsoft ASP.NET framework.   This was a group project for an intro to software engineering class.  We were to have something similar to the real life KSU Bookstore. The teacher acted as the customer and we went through the waterfall development method.  We performed requirements analysis, design, implementation and testing of a site where users could search and purchase books for KSU classes.    
 													</p>
 													
 												</div>
@@ -653,7 +653,7 @@
 													
 													<!--project popup description-->
 													<p>
-														In my personal pursuit of learning Python programming language, I studied the open source library Pandas.  This library is for data manipulation and analysis and offeres data structures and operation for manipulating numerical tables and time series.
+														In my personal pursuit of learning Python programming language, I studied the open source library Pandas.  This library is for data manipulation and analysis and offers data structures and operation for manipulating numerical tables and time series.
 													</p>
 													
 												</div>
