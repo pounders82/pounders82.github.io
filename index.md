@@ -574,11 +574,11 @@
 												<div class='content' >
 													
 													<!--project popup title-->
-													<h4>My Project Muzer</h4>
+													<h4>Project Muzer</h4>
 													
 													<!--project popup description-->
 													<p>
-														Muzer is an application that turns your home computer into a server. This was a group project for our senior software design capstone class inspired by our collective frustration with having to paid to stream our own music or having to paid for expensive portable devices. By creating this application to turn your computer into a server, users can access and stream their own music by connecting to the internet anywhere. This application project was created using the MERN stack. MongoDB, Express.js, React, and Node.js. To ensure security / privacy was addressed we used Google OAuth for user authentication.
+														Muzer is an application that turns your home computer into a server. This was a group project for our senior software design capstone class inspired by our collective frustration with having to pay to stream our own music or having to pay for expensive portable devices. By creating this application to turn your computer into a server, users can access and stream their own music by connecting to the internet anywhere. This application project was created using the MERN stack. MongoDB, Express.js, React, and Node.js. To ensure security / privacy we used Google OAuth for user authentication.
 													</p>
 													
 												</div>
