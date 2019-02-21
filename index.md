@@ -261,7 +261,7 @@
 										<h4>Ruby/Rails</h4>
 										<h4>Bash/Perl Scripting</h4>
 										<h4>Git</h4>
-										<h4>Micorsoft Office</h4>
+										<h4>Microsoft Office</h4>
 										<h4>Linux/Unix</h4>
 										<h4>Web Development</h4>
 										<h4>Critical Thinking</h4>
