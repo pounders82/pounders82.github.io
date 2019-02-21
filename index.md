@@ -199,14 +199,13 @@
 								
 									<div class='about-text' >
 										<p>
-											Welcome to my portfolio website! I’m a recent Computer Science graduate from Kennesaw State University. Go Owls! 
-											From a young age I have always been interested in technology.  I remember sitting around the home computer and connecting to the internet for the first time.  The excitement of technology progressing and funny sounds from dial-up internet.  Since then I have been on a journey to understand and learn technology.
+											Welcome to my portfolio website! I’m a recent Computer Science graduate from Kennesaw State University. Go Owls! My primary focus at Kennesaw was focused on understanding web development technologies. An example of my work is the site, Making My Own Sunshine, which I created with Ruby on Rails. I definitely see why it became so popular. I also worked on several other web-based projects, from websites to gaming which you can explore in greater detail by viewing my portfolio. Now that I have graduated, I hope to do some research on mobile development, artificial intelligence, machine learning, and open source. Also, I look forward to joining a team where I can explore further growth and development in my career
 											<br><br>
 
-											I am what you call a returning learner.  I received my associates degree in Electronic/Computer Engineering Technology in 2011 and decided to hit the job market. The last 5 years I have been developing single-use and infection prevention medical devices for the gastro-intestinal physician. When I decided to go back to school I had a difficult time choosing what to study.  I could either stick with an area that I am currently in or something that I am really interested in learning.  Ultimately my love for technology and my interest in programming won so I choose Computer Science.
+											My path towards a degree in computer science is slightly unusual, as I am what you call a returning learner. I received my associates degree in Electronic/Computer Engineering Technology in 2011 before entering the work force. The last 5 years I have been developing single-use and infection prevention medical devices for the gastro-intestinal physician. When I decided to return to school and complete my Bachelor’s degree of study, my passion for the field of technology, combined with my interest in programming led me to choose Computer Science as my focus. From a young age I had always been interested in technology. I remember sitting around the home computer and connecting to the internet for the first time, the excitement of technology progressing and funny sounds from dial-up internet. Since then I have been on a journey to understand and learn technology.
 
 											<br><br>
-											In my free time I like to learn, spend time with my family, and watch movies and play video games if time permits. I have spent most of my time in college understanding web development technologies.  My favorite project has been the Making My Own Sunshine Blog which I created with Ruby on Rails.  I definitely see why it became so popular. Now that I have graduated, I hope to do some research on mobile development, artificial intelligence, machine learning, and open source. Also I look forward to my next journey in my career.  
+											Outside of my professional life, I like to take continuing education courses, spend time with my family, and watch movies or play video games when time permits. 
 
 										</p>
 										
@@ -540,7 +539,7 @@
 													
 													<!--project popup description-->
 													<p>
-														This project was created using Ruby on Rails.  I created this project because my wife used to have a blog website but she no longer is able to keep the site due to time constraints and financial obligations. This is where I thought this would be the perfect opportunity for me to explore the Ruby on Rails framework and create a free blog website where if my wife does not use it for a couple months she does not feel like she is wasting money.  Additionally, I found this to be a great opportunity for me to gain the experience of working with a customer with specific requests and/or needs by allowing her to help dictate the design and requirements of the website.  This is still a work in progress but visit the site at
+														This project was created using Ruby on Rails. I created this project because my wife used to have a blog website, but she no longer was able to keep the site for a variety of reasons. I saw this as an opportunity for me to explore the Ruby on Rails framework, and to create a free blog website to meet the needs of my wife while overcoming the reasons she let her previous site go. Additionally, I found this to be a great opportunity for me to gain the experience of working with a customer with specific requests and/or needs by allowing her to help dictate the design and requirements of the website. This is still a work in progress but visit the site at
 														<a href="https://makingmyownsunshine.herokuapp.com" target="_blank"> Making My Own Sunshine</a>
 													</p>
 													
@@ -578,7 +577,7 @@
 													
 													<!--project popup description-->
 													<p>
-														A group project for our senior software design capstone class inspired by our collective frustration with having to paid to stream our own music or having to paid for expensive portable devices.  We designed an application that turns your home computer into a server.  Then connecting to the internet anywhere, users can access and stream their own music.  This project was created using the MERN stack. MongoDB, Express.js, React, and Node.js. Google OAuth was used for user authentication.  
+														Muzer is an application that turns your home computer into a server. This was a group project for our senior software design capstone class inspired by our collective frustration with having to paid to stream our own music or having to paid for expensive portable devices. By creating this application to turn your computer into a server, users can access and stream their own music by connecting to the internet anywhere. This application project was created using the MERN stack. MongoDB, Express.js, React, and Node.js. To ensure security / privacy was addressed we used Google OAuth for user authentication.
 													</p>
 													
 												</div>
@@ -615,7 +614,7 @@
 													
 													<!--project popup description-->
 													<p>
-														This project was created using Microsoft ASP.NET framework.   This was a group project for an intro to software engineering class.  We were to have something similar to the real life KSU Bookstore. The teacher acted as the customer and we went through the waterfall development method.  We performed requirements analysis, design, implementation and testing of a site where users could search and purchase books for KSU classes.    
+														This project was created using Microsoft ASP.NET framework, and like it sounds this was a site designed to operate similar to the real life KSU bookstore. This was a group project I worked on for an intro to software engineering class. In this instance, our professor served as the client and we went through the waterfall development method. We performed requirements analysis, design, implementation and testing of a site where users could search and purchase books for KSU classes.    
 													</p>
 													
 												</div>
@@ -690,7 +689,8 @@
 													
 													<!--project popup description-->
 													<p>
-														I get very excited about a nice map. Folium is a powerful Python library that helps you create several types of Leaflet maps. In this project I created a webmap with 2 layers that can be turn on or off.  The first layer shows the population of the area based on color and the other layer shows locations of volcanos with pop-up dots that can be clicked to show elevation. 
+														Like many people, I appreciate a well-designed and functional map. This is why so many people find Google maps preferable. In this instance, I created a web map with 2 layers that can be turn on or off using Folium. Folium is a powerful Python library that helps you create several types of Leaflet maps. In this particular map, the first layer shows the population of the area based on color with the second layer showing locations of volcanos with pop-up dots that can be clicked to show elevation.
+ 
 													</p>
 													
 												</div>
@@ -727,7 +727,7 @@
 													
 													<!--project popup description-->
 													<p>
-														This project is simple game that I have created to practice the concepts of JavaFx. This program displays a circle of radius 10 pixels filled with a random color at a random location on a pane. When you click the circle, it disappears and a new random- color circle is displayed at another random location. After 5 circles are clicked, the time spent is displayed in the pane.
+														This project is simple game that I created in order to practice the concepts of JavaFx. This program displays a circle with a radius of 10 pixels. Each time the circle is filled with a random color and is displayed at a random location on a pane. When you click the circle, it disappears and a new circle is displayed. After 5 circles are clicked, the time spent is displayed in the pane. The purpose of this game is to test your eye-hand coordination by requiring a player to first locate a circle, and then perform an action. The randomization of both location and color helps eliminate players from identifying a pattern. Players can repeat the game to improve their times and practice their eye-hand coordination.
 													</p>
 													
 												</div>
