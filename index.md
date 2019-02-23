@@ -627,33 +627,32 @@
 									</div>
 								</li>
 								
-								
 								<li data-groups='["tech"]' >
 									<div class='inner' >
-										<img src='img/portfolio/pandas.png' alt>
+										<img src='img/portfolio/ColorSampler.png' alt>
 										
 										<div class='overlay' >
 											
-											<a href='#popup-4' class='view-project' >
+											<a href='#popup-6' class='view-project' >
 												View Project
 											</a>
 											
 											<!--project popup-->
-											<div id='popup-4' class='popup-box zoom-anim-dialog mfp-hide' >
+											<div id='popup-6' class='popup-box zoom-anim-dialog mfp-hide' >
 												<figure>
 													
 													<!--project popup image-->
-													<img src='img/portfolio/pandas.png' alt>
+													<img src='img/portfolio/ColorSampler.png' alt>
 												
 												</figure>
 												<div class='content' >
 													
 													<!--project popup title-->
-													<h4>Data Analysis with Pandas</h4>
+													<h4>Color Sampler with Java FX</h4>
 													
 													<!--project popup description-->
 													<p>
-														In my personal pursuit of learning Python programming language, I studied the open source library Pandas.  This library is for data manipulation and analysis and offers data structures and operation for manipulating numerical tables and time series.
+														This project is simple application that I created in order to practice the concepts of JavaFx. This program displays a color. There are 6 buttons that allow the user to adjust up or down the Hue, Brightness and Saturation and the new color is displayed.  
 													</p>
 													
 												</div>
@@ -664,6 +663,7 @@
 										
 									</div>
 								</li>
+								
 								
 								<li data-groups='["tech", "web]' >
 									<div class='inner' >
@@ -702,32 +702,34 @@
 										
 									</div>
 								</li>
+
+
 								<li data-groups='["tech"]' >
 									<div class='inner' >
-										<img src='img/portfolio/ColorSampler.png' alt>
+										<img src='img/portfolio/pandas.png' alt>
 										
 										<div class='overlay' >
 											
-											<a href='#popup-6' class='view-project' >
+											<a href='#popup-4' class='view-project' >
 												View Project
 											</a>
 											
 											<!--project popup-->
-											<div id='popup-6' class='popup-box zoom-anim-dialog mfp-hide' >
+											<div id='popup-4' class='popup-box zoom-anim-dialog mfp-hide' >
 												<figure>
 													
 													<!--project popup image-->
-													<img src='img/portfolio/ColorSampler.png' alt>
+													<img src='img/portfolio/pandas.png' alt>
 												
 												</figure>
 												<div class='content' >
 													
 													<!--project popup title-->
-													<h4>Color Sampler with Java FX</h4>
+													<h4>Data Analysis with Pandas</h4>
 													
 													<!--project popup description-->
 													<p>
-														This project is simple application that I created in order to practice the concepts of JavaFx. This program displays a color. There are 6 buttons that allow the user to adjust up or down the Hue, Brightness and Saturation and the new color is displayed.  
+														In my personal pursuit of learning Python programming language, I studied the open source library Pandas.  This library is for data manipulation and analysis and offers data structures and operation for manipulating numerical tables and time series.
 													</p>
 													
 												</div>
@@ -738,6 +740,8 @@
 										
 									</div>
 								</li>
+
+								
 								
 								<li data-groups='["tech"]' >
 									<div class='inner' >
