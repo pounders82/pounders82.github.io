@@ -702,6 +702,42 @@
 										
 									</div>
 								</li>
+								<li data-groups='["tech"]' >
+									<div class='inner' >
+										<img src='img/portfolio/ColorSampler.png' alt>
+										
+										<div class='overlay' >
+											
+											<a href='#popup-6' class='view-project' >
+												View Project
+											</a>
+											
+											<!--project popup-->
+											<div id='popup-6' class='popup-box zoom-anim-dialog mfp-hide' >
+												<figure>
+													
+													<!--project popup image-->
+													<img src='img/portfolio/ColorSampler.png' alt>
+												
+												</figure>
+												<div class='content' >
+													
+													<!--project popup title-->
+													<h4>Color Sampler with Java FX</h4>
+													
+													<!--project popup description-->
+													<p>
+														This project is simple application that I created in order to practice the concepts of JavaFx. This program displays a color. There are 6 buttons that allow the user to adjust up or down the Hue, Brightness and Saturation.  
+													</p>
+													
+												</div>
+												
+											</div>
+											
+										</div>
+										
+									</div>
+								</li>
 								
 								<li data-groups='["tech"]' >
 									<div class='inner' >
