@@ -727,7 +727,7 @@
 													
 													<!--project popup description-->
 													<p>
-														This project is simple application that I created in order to practice the concepts of JavaFx. This program displays a color. There are 6 buttons that allow the user to adjust up or down the Hue, Brightness and Saturation.  
+														This project is simple application that I created in order to practice the concepts of JavaFx. This program displays a color. There are 6 buttons that allow the user to adjust up or down the Hue, Brightness and Saturation and the new color is displayed.  
 													</p>
 													
 												</div>
