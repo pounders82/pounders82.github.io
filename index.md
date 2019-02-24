@@ -731,7 +731,7 @@
 													
 													<!--project popup description-->
 													<p>
-														This project is simple application that I created in order to practice the concepts of JavaFx. This program displays a simple calculator where users can enter two operands and choose to add, subtract, multiple, or divide.
+														This project is a simple application that I created in order to practice the concepts of JavaFx. This program displays a simple calculator where users can enter two operands and choose to add, subtract, multiple, or divide.
 													</p>
 													
 												</div>
@@ -768,7 +768,7 @@
 													
 													<!--project popup description-->
 													<p>
-														This project is simple application that I created in order to practice the concepts of JavaFx. This program displays two circles that are attached by a line.  The distance in pixels is displayed above the line.  The user can click and drag either of the circles to move them.  The line that connects the circles moves with the circle being dragged and the distance is also updated while the circle is being dragged.  
+														This project is a simple application that I created in order to practice the concepts of JavaFx. This program displays two circles that are attached by a line.  The distance in pixels is displayed above the line.  The user can click and drag either of the circles to move them.  The line that connects the circles moves with the circle being dragged and the distance is also updated while the circle is being dragged.  
 													</p>
 													
 												</div>
@@ -805,7 +805,7 @@
 													
 													<!--project popup description-->
 													<p>
-														This project is simple application that I created in order to practice the concepts of JavaFx.  This program uses and Array List to simulate the 52 cards of the deck.  The Array List is shuffled and the top 3 cards are displayed on the screen.
+														This project is a simple application that I created in order to practice the concepts of JavaFx.  This program uses and Array List to simulate the 52 cards of the deck.  The Array List is shuffled and the top 3 cards are displayed on the screen.
 													</p>
 													
 												</div>
