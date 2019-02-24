@@ -782,6 +782,43 @@
 
 								<li data-groups='["tech"]' >
 									<div class='inner' >
+										<img src='img/portfolio/cards1.png' alt>
+										
+										<div class='overlay' >
+											
+											<a href='#popup-4' class='view-project' >
+												View Project
+											</a>
+											
+											<!--project popup-->
+											<div id='popup-4' class='popup-box zoom-anim-dialog mfp-hide' >
+												<figure>
+													
+													<!--project popup image-->
+													<img src='img/portfolio/cards2.png' alt>
+												
+												</figure>
+												<div class='content' >
+													
+													<!--project popup title-->
+													<h4>Card Shuffle with JavaFX</h4>
+													
+													<!--project popup description-->
+													<p>
+														This project is simple application that I created in order to practice the concepts of JavaFx.  This program uses and Array List to simulate the 52 cards of the deck.  The Array List is shuffled and the top 3 cards are displayed on the screen.
+													</p>
+													
+												</div>
+												
+											</div>
+											
+										</div>
+										
+									</div>
+								</li>
+
+								<li data-groups='["tech"]' >
+									<div class='inner' >
 										<img src='img/portfolio/pandas.png' alt>
 										
 										<div class='overlay' >
