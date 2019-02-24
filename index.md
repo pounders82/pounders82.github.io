@@ -819,6 +819,43 @@
 
 								<li data-groups='["tech"]' >
 									<div class='inner' >
+										<img src='img/portfolio/circlebounds.png' alt>
+										
+										<div class='overlay' >
+											
+											<a href='#popup-11' class='view-project' >
+												View Project
+											</a>
+											
+											<!--project popup-->
+											<div id='popup-11' class='popup-box zoom-anim-dialog mfp-hide' >
+												<figure>
+													
+													<!--project popup image-->
+													<img src='img/portfolio/circlebounds.png' alt>
+												
+												</figure>
+												<div class='content' >
+													
+													<!--project popup title-->
+													<h4>Circle Bounds with JavaFX</h4>
+													
+													<!--project popup description-->
+													<p>
+														This project is a simple application that I created in order to practice the concepts of JavaFx. When the user left clicks on the screen a circle appears which is bounded by a rectangle.  As the user continues to left click more circles appear and they are all bounded by the same rectangle.  When the user right clicks on a circle it disappears and the rectangle is updated to bound the remaining circles.
+													</p>
+													
+												</div>
+												
+											</div>
+											
+										</div>
+										
+									</div>
+								</li>
+
+								<li data-groups='["tech"]' >
+									<div class='inner' >
 										<img src='img/portfolio/pandas.png' alt>
 										
 										<div class='overlay' >
