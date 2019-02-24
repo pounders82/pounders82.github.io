@@ -823,12 +823,12 @@
 										
 										<div class='overlay' >
 											
-											<a href='#popup-8' class='view-project' >
+											<a href='#popup-10' class='view-project' >
 												View Project
 											</a>
 											
 											<!--project popup-->
-											<div id='popup-8' class='popup-box zoom-anim-dialog mfp-hide' >
+											<div id='popup-10' class='popup-box zoom-anim-dialog mfp-hide' >
 												<figure>
 													
 													<!--project popup image-->
