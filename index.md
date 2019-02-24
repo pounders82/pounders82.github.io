@@ -712,12 +712,12 @@
 										
 										<div class='overlay' >
 											
-											<a href='#popup-6' class='view-project' >
+											<a href='#popup-7' class='view-project' >
 												View Project
 											</a>
 											
 											<!--project popup-->
-											<div id='popup-6' class='popup-box zoom-anim-dialog mfp-hide' >
+											<div id='popup-7' class='popup-box zoom-anim-dialog mfp-hide' >
 												<figure>
 													
 													<!--project popup image-->
@@ -749,12 +749,12 @@
 										
 										<div class='overlay' >
 											
-											<a href='#popup-6' class='view-project' >
+											<a href='#popup-8' class='view-project' >
 												View Project
 											</a>
 											
 											<!--project popup-->
-											<div id='popup-6' class='popup-box zoom-anim-dialog mfp-hide' >
+											<div id='popup-8' class='popup-box zoom-anim-dialog mfp-hide' >
 												<figure>
 													
 													<!--project popup image-->
@@ -823,12 +823,12 @@
 										
 										<div class='overlay' >
 											
-											<a href='#popup-4' class='view-project' >
+											<a href='#popup-8' class='view-project' >
 												View Project
 											</a>
 											
 											<!--project popup-->
-											<div id='popup-4' class='popup-box zoom-anim-dialog mfp-hide' >
+											<div id='popup-8' class='popup-box zoom-anim-dialog mfp-hide' >
 												<figure>
 													
 													<!--project popup image-->
@@ -862,12 +862,12 @@
 										
 										<div class='overlay' >
 											
-											<a href='#popup-6' class='view-project' >
+											<a href='#popup-9' class='view-project' >
 												View Project
 											</a>
 											
 											<!--project popup-->
-											<div id='popup-6' class='popup-box zoom-anim-dialog mfp-hide' >
+											<div id='popup-9' class='popup-box zoom-anim-dialog mfp-hide' >
 												<figure>
 													
 													<!--project popup image-->
