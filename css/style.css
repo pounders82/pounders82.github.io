@@ -263,7 +263,6 @@ body.border-dark .main-content:after{
 	letter-spacing:2px;
 	font-size:20px;
 	padding-top: 15px;
-	padding-bottom: 15px;
 
 }
 .intro-text > p{
@@ -278,6 +277,7 @@ body.border-dark .main-content:after{
 }
 .intro-text > .intro-btns{
 	margin-top:45px;
+	padding-bottom: 15px;
 }
 .intro-text > .intro-btns > .btn-custom{
 	margin:0 15px;
