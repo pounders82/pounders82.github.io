@@ -260,7 +260,7 @@ body.border-dark .main-content:after{
 	color:#FFF;
 	text-transform:uppercase;
 	font-weight:900;
-	letter-spacing:4px;
+	letter-spacing:2px;
 	font-size:25px;
 }
 .intro-text > p{
@@ -271,7 +271,7 @@ body.border-dark .main-content:after{
 	margin-bottom:0;
 	font-weight:300;
 	font-style:italic;
-	letter-spacing:2px;
+	letter-spacing:1px;
 }
 .intro-text > .intro-btns{
 	margin-top:45px;
