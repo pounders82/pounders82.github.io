@@ -238,7 +238,7 @@ body.border-dark .main-content:after{
 =======================================================*/
 .section-main{
 	background-size:cover;
-	
+	background:#303F9F;
 }
 .section-main:before{
 	content: ' ';
@@ -261,7 +261,7 @@ body.border-dark .main-content:after{
 	text-transform:uppercase;
 	font-weight:900;
 	letter-spacing:8px;
-	font-size:30px;
+	font-size:25px;
 }
 .intro-text > p{
 	font-size:18px;
