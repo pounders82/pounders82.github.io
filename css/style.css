@@ -1,8 +1,5 @@
 /*=======================================================
 	
-	Item	: 	N5 - Minimal Resume/CV & vCard Template
-	
-	Author	: 	Noman Ali Samejo
 	
 --------------------------------------------------------------------------------------
 	List Of Contents
@@ -241,7 +238,7 @@ body.border-dark .main-content:after{
 =======================================================*/
 .section-main{
 	background-size:cover;
-	background-image:url(../img/bg.jpg);
+	
 }
 .section-main:before{
 	content: ' ';
@@ -319,7 +316,7 @@ a.btn-custom{
 	z-index:-1;
 	opacity:0;
 	visibility:hidden;
-	background:#303F9F;
+	background:rgba(0,0,0,.3);
 	-webkit-transition:all .3s cubic-bezier(.785,.135,.15,.86);
 	-moz-transition:all .3s cubic-bezier(.785,.135,.15,.86);
 	transition:all .3s cubic-bezier(.785,.135,.15,.86);
