@@ -180,6 +180,7 @@
 											<strong>Education:</strong>
 											<span>Kennesaw State University</span><br>
 											<span>Degree: Computer Science December 2018</span>
+											<span>GPA: 3.76 </span>
 										</li>
 										
 										
